@@ -2,7 +2,8 @@ package it.uom.cse;
 
 import java.util.Arrays;
 
-
+/**
+ * This class is math oparations*/
 public class MathOperation {
 
     public static double add(double... operands)
